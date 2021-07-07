@@ -1,0 +1,10 @@
+C:\Users\rashe\Desktop\Final_Project_SD\bin\Debug\Final_Project_SD.exe.config
+C:\Users\rashe\Desktop\Final_Project_SD\bin\Debug\Final_Project_SD.exe
+C:\Users\rashe\Desktop\Final_Project_SD\bin\Debug\Final_Project_SD.pdb
+C:\Users\rashe\Desktop\Final_Project_SD\obj\Debug\Final_Project_SD.csprojAssemblyReference.cache
+C:\Users\rashe\Desktop\Final_Project_SD\obj\Debug\Final_Project_SD.Controller.resources
+C:\Users\rashe\Desktop\Final_Project_SD\obj\Debug\Final_Project_SD.Properties.Resources.resources
+C:\Users\rashe\Desktop\Final_Project_SD\obj\Debug\Final_Project_SD.csproj.GenerateResource.cache
+C:\Users\rashe\Desktop\Final_Project_SD\obj\Debug\Final_Project_SD.csproj.CoreCompileInputs.cache
+C:\Users\rashe\Desktop\Final_Project_SD\obj\Debug\Final_Project_SD.exe
+C:\Users\rashe\Desktop\Final_Project_SD\obj\Debug\Final_Project_SD.pdb
